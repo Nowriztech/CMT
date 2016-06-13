@@ -1,0 +1,44 @@
+
+Exporter Start Date: 3/4/2016 9:08:32 AM
+Exporter End Date: 1/1/0001 12:00:00 AM
+Exporter Net Time: 
+Single Year Selection: False
+Single Year Selected: : 
+Single Period Selected: 
+Multi Year Selection: False
+Year From Selected: 
+Year To Selected: 
+Date Selection: False
+Start Date: 
+End Date: 
+Total Files: 0
+Total Size: 0
+First File Exported: 
+First ID Exported: 
+Last File Exported: 
+Last ID Exported: 
+Success: False
+Status: Error in Opening DB Connection for Teamsite
+Status Message: An item with the same key has already been added.
+
+Exporter Start Date: 3/4/2016 9:08:41 AM
+Exporter End Date: 1/1/0001 12:00:00 AM
+Exporter Net Time: 
+Single Year Selection: False
+Single Year Selected: : 
+Single Period Selected: 
+Multi Year Selection: False
+Year From Selected: 
+Year To Selected: 
+Date Selection: False
+Start Date: 
+End Date: 
+Total Files: 0
+Total Size: 0
+First File Exported: 
+First ID Exported: 
+Last File Exported: 
+Last ID Exported: 
+Success: False
+Status: Error in Opening DB Connection for Teamsite
+Status Message: An item with the same key has already been added.
